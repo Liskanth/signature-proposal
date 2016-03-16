@@ -1,0 +1,2 @@
+This is a tool for providing the user a set of proposal signatures based upon his/her name.
+The user writes their name in the app. Then the program will generate a couple of examples of possible signatures.
